@@ -13,7 +13,7 @@ st.title("📊 Dashboard - Modelo SVM (Bank Marketing)")
 # =========================
 # URL DE LA API (modifica según tu URL en Railway)
 # =========================
-API_URL = "https://web-production-39e3.up.railway.app/"  # ⚠️ cambia esto por tu endpoint real
+API_URL = "https://web-production-271f3.up.railway.app/"  # ⚠️ cambia esto por tu endpoint real
 
 # =========================
 # OBTENER DATOS DE LA API
