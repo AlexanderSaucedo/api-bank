@@ -154,7 +154,7 @@ with col2:
 # =========================
 st.markdown("---")
 st.markdown(
-    f"<p style='text-align:center; color:{TEXT_COLOR};'>Desarrollado por <b>Josué Alexander Saucedo González</b></p>",
+    f"<p style='text-align:center; color:{TEXT_COLOR};'>Desarrollado por <b>El equipo del Karim</b></p>",
     unsafe_allow_html=True
 )
 
