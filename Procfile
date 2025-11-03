@@ -1,1 +1,3 @@
-web: streamlit run app/dashboard_svm.py --server.port $PORT --server.address 0.0.0.0
+web: uvicorn api:app --host 0.0.0.0 --port 8000
+dashboard: streamlit run dashboard_svm.py --server.port 8501 --server.address 0.0.0.0
+
